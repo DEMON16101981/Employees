@@ -1,4 +1,4 @@
-import * as ReactDOMClient from 'react-dom/client';
+import ReactDOMClient from 'react-dom/client';
 import './index.css';
 import React from 'react';
 import App from './components/app/app';
