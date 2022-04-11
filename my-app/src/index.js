@@ -9,3 +9,5 @@ const root = ReactDOMClient.createRoot(container);
  
 
 root.render (<App/>);
+
+<div img src="./maxresdefault.jpg"></div>

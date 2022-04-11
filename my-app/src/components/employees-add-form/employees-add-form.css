@@ -3,15 +3,17 @@
     padding: 25px;
     background-color: #3d5a80;
     border-radius: 4px;
-    box-shadow: 15px 15px 30px rgba(14, 10, 10, 0.15);
+    box-shadow: 12px 12px 10px  rgba(0, 0, 0, 0.2);
     color: rgb(212, 227, 240);
 
 }
 .add-form {
     margin-top: 20px;
+    box-shadow: 12px 12px 10px  rgba(0, 0, 0, 0.2);
 }
 
 .add-form input {
     width: 350px;
     margin-right: 20px;
+    box-shadow: 12px 12px 10px  rgba(0, 0, 0, 0.2);
 }
